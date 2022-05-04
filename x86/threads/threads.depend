@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651626357 source:c:\users\admin\desktop\pthread\threads\main.cpp
+	<iostream>
+	<windows.h>
+	<pthread.h>
+	<stdlib.h>
+	<semaphore.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651663323 source:c:\users\admin\desktop\pthread\synchronous\main.cpp
+	<iostream>
+	<windows.h>
+	<pthread.h>
+	<stdlib.h>
+	<semaphore.h>
+
